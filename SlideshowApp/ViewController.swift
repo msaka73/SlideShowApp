@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    let picName:[String] = ["spring","summer","autumn","winter"]
+    let picName:[String] = ["spring.png","summer.jpg","autumn.jpg","winter.jpg"]
     var step:Int = 0        //配列の番号
     var timer: Timer!
     
